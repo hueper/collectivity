@@ -1,14 +1,14 @@
 const path = require("path");
-const pathPrefix = "/";
+const pathPrefix = "/collectivity";
 // Change me
 const siteMetadata = {
-  title: "Foam Template for Gatsby Theme Primer Wiki",
+  title: "Collectivity",
   shortName: "Wiki",
   description:
     "Another Foam template that use gatsby-theme-primer-wiki, Welcome to your new Foam Knowledge Base!",
-  twitterName: "theowenyoung",
+  twitterName: "moritzhueper",
   imageUrl: "/graph-visualisation.jpg",
-  siteUrl: "https://demo-foam.owenyoung.com",
+  siteUrl: "https://hueper.github.io",
 };
 module.exports = {
   siteMetadata,
@@ -26,15 +26,15 @@ module.exports = {
         nav: [
           {
             title: "Github",
-            url: "https://github.com/theowenyoung/foam-template-gatsby-theme-primer-wiki/",
+            url: "https://github.com/hueper/collectivity/",
           },
           {
             title: "Twitter",
-            url: "https://twitter.com/theowenyoung",
+            url: "https://twitter.com/moritzhueper",
           },
         ],
         editUrl:
-          "https://github.com/theowenyoung/foam-template-gatsby-theme-primer-wiki/tree/main/",
+          "https://github.com/hueper/collectivity/tree/main/",
       },
     },
     {
