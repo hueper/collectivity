@@ -1,6 +1,1 @@
----
-title:
-tags:
-  -
----
 # Carolin Wiedemann
