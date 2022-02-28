@@ -1,0 +1,13 @@
+---
+title: Herrschaft / Regime / Ideologie
+keywords: Hack Protocol
+---
+
+# Herrschaft / Regime / Ideologie
+> Existiert die [[Multitude]] heute, oder ist sie eine politische Vision von etwas »Kommendem«? Demokratie impliziert keine Multitudes und eigentlich ist eines der wesentlichen Angriffsziele der Multitude die repräsentative Demokratie (die Differenz zwischen »konstituierter« und »konstituierender« Macht, auf die Negri hinweist).
+ 
+[Herv. v. Verf.] (Thacker 2009, 62 f.)
+
+> Das erinnert an Deleuzes These, dass im Kontrolldispositiv die Steuerungsmechanismen den Kommunikationsprozessen selbst immanent sind. Form und Ausdruck von [[Anonymous]] sind an den Rahmen gebunden, den Systemadministrator_innen, IT Infrastrukturen und das Protocol vorgeben. Hacken heißt das Protokoll umschreiben – aber wer kann das schon?
+
+(Wiedemann 2016, p. 141)
