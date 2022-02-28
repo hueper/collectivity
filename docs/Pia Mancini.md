@@ -1,4 +1,1 @@
----
-type: person
----
 # Pia Mancini
