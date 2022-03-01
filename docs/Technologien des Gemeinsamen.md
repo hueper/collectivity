@@ -1,1 +1,0 @@
-## Technologien des Gemeinsamen
