@@ -10,7 +10,7 @@ Kollektivität wird von Wiedemann so auf zunächst zweierlei Weisen begriffen, z
 
 ## Zählbar und Unzählbar
 
-In seiner Materialisierung scheint Wiedemann Kollektivität nicht eindeutig nur als zählbar, als bspw. Körper/Gruppe/Ansammlung oder als unzählbar, als Zustand, Vollzug oder Eigenschaft des Gemeinsamen/Kollektiven zu bestimmen.[^8] 
+In seiner Materialisierung scheint Wiedemann Kollektivität nicht eindeutig nur als zählbar, als bspw. Körper/Gruppe/Ansammlung oder als unzählbar, als Zustand, Vollzug oder Eigenschaft des Gemeinsamen/Kollektiven zu bestimmen.[^1] 
 
 Auch wenn es einleitend heißt, Anonymous sei kein Verein, der sich durch seine Mitglieder definieren lasse, keine Organisation, deren Existenz auf einer Satzung und entsprechenden Aufgaben basiere, keine Institution, deren Struktur feststehe, Anonymous sei auch keine Hackergruppe, wie es in den Zeitungen stehe, Anonymous sei keine Gruppe (vgl. Wiedemann 2016, p. 133), wird Anonymous dennoch als unterscheidbare und handlungsfähige Entität gezeichnet:
 
@@ -24,23 +24,25 @@ Die Multitude und Anonymous haben damit gemein, schließt Wiedemann, dass das Ge
 
 Während Anonymous eine Kollektivität sei, ist Austausch, Kommunikation und das Teilen im Vollzug Kollektivität.
 
-Wiedemann schlägt als Definition von Kollektivität vor: „in der Verbindung, in dem Moment, in dem sich Elemente zusammenfügen, haben sie gemeinsam Agency, also die Fähigkeit, eine Handlung zu initiieren, die einen transformatorischen Effekt hat (Latour 2005: 53).“ (Wiedemann 2016, p. 40) und schreibt im Aufsatz ‚Between Swarm, Network, and Multitude – Anonymous and the Infrastructures oft he Common‘:
+Wiedemann schlägt als Definition von Kollektivität vor: „in der Verbindung, in dem Moment, in dem sich Elemente zusammenfügen, haben sie gemeinsam Agency, also die Fähigkeit, eine Handlung zu initiieren, die einen transformatorischen Effekt hat (Latour 2005: 53).“ (Wiedemann 2016, p. 40) und schreibt im Aufsatz ‚Between Swarm, Network, and Multitude – Anonymous and the Infrastructures of the Common‘:
 
 > People who did not know each other, who just gathered on 4chan, became Anonymous, a collectivity that was not based on a common political agenda or a collective identity, but on an assembling of individuals that had agency in the sense of an ability to perform action that has a transforming effect (see Latour 2005: 53f.). […]
 > 
 > A phenomenon such as Anonymous, however, demands that we focus exactly on the operative level of the constitution of collectivity, the potential agency that turns the random gathering of people into a temporary community. (Wiedemann 2016, p. 152)
 
-## Herstellung von Kollektivität
+## [[Technologien des Gemeinsamen]] / Herstellung von Kollektivität
 
-Während sich hinsichtlich des Konzepts der Multitude die scheinbar unbeantwortbare Frage stellt, wie dieses Gemeinsame unter Wahrung der Differenz hergestellt werden kann (vgl. Thacker 2009: 63), entgegnet Anonymous: Indem im Netz anonym kommuniziert und kooperiert wird. Damit erweitert Anonymous die durch das Theorem der Multitude vorgeschlagene Perspektive auf „offene Kollektivität“ auf präzise Weise. „Informations- und Kommunikationsfreiheit für alle“ wird also nicht nur als das Ziel, sondern als das Tool beschrieben. Anonymous zufolge ist anonyme Kommunikation Voraussetzung für Dezentralität und Offenheit von Kollektivität. (Wiedemann 2016, p. 138)
+> Während sich hinsichtlich des Konzepts der Multitude die scheinbar unbeantwortbare Frage stellt, wie dieses Gemeinsame unter Wahrung der Differenz hergestellt werden kann (vgl. Thacker 2009: 63), entgegnet Anonymous: Indem im Netz anonym kommuniziert und kooperiert wird. Damit erweitert Anonymous die durch das Theorem der Multitude vorgeschlagene Perspektive auf „offene Kollektivität“ auf präzise Weise. „Informations- und Kommunikationsfreiheit für alle“ wird also nicht nur als das Ziel, sondern als das Tool beschrieben. Anonymous zufolge ist anonyme Kommunikation Voraussetzung für Dezentralität und Offenheit von Kollektivität.
+> -- (Wiedemann 2016, p. 138)
 
 ## Fußnoten
 
-[^8]: So wie etwas eine (bestimmbare) Aktivität sein kann (Lesen, Schreiben, Denken, Spielen, Unterhalten = bestimm- und unterscheidbare Aktivitäten) oder (unbestimmte) Aktivität ausgemacht werden kann („Ich konnte dort gestern (insgesamt) eine höhere Aktivität feststellen als vorgestern.“). Fragen: Liegt der Unterschied zwischen den Ontologien der Aktivität im ‚Haben‘ und im ‚Sein‘? – Eine Aktivität sein vs. haben? Bestehen bestimmbare Kollektivitäten wie bestimmbare Aktivitäten aus Aktanten, Techniken, Regeln?
+[^1]: So wie etwas eine (bestimmbare) Aktivität sein kann (Lesen, Schreiben, Denken, Spielen, Unterhalten = bestimm- und unterscheidbare Aktivitäten) oder (unbestimmte) Aktivität ausgemacht werden kann („Ich konnte dort gestern (insgesamt) eine höhere Aktivität feststellen als vorgestern.“). Fragen: Liegt der Unterschied zwischen den Ontologien der Aktivität im ‚Haben‘ und im ‚Sein‘? – Eine Aktivität sein vs. haben? Bestehen bestimmbare Kollektivitäten wie bestimmbare Aktivitäten aus Aktanten, Techniken, Regeln?
 
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
 [Wiedemann]: Wiedemann.md "Carolin Wiedemann"
 [Multitude]: Multitude.md "Multitude"
 [Anonymous]: Anonymous.md "Anonymous"
+[Technologien des Gemeinsamen]: <Technologien des Gemeinsamen.md> "Technologien des Gemeinsamen"
 [//end]: # "Autogenerated link references"
