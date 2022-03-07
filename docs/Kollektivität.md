@@ -4,7 +4,7 @@
 
 [[Wiedemann]] verwendet den Begriff ‚Kollektivität‘ „im Rahmen der Überlegungen zu einer Open Collectivity“ (Wiedemann 2016, p. 134) nicht „als Platzhalter für ‚Gemeinschaft‘ […], sondern als Teil einer neuen Begriffskonstellation.“ (Wiedemann 2016, p. 134)
 
-Während sich bei Hardt, Negri und Virno mit der Theorie der [[Multitude]] ein Konzept von Kollektivität finden lasse (vgl. Wiedemann 2016, p. 133) – als deren Basis die Produktion des Gemeinsamen beschrieben werde (vgl. Wiedemann 2016, p. 136),  identifiziert Wiedemann [[Anonymous]] als Materialisierung jenes Konzepts – „ist Anonymous doch eine Kollektivität, die auf Kommunikationstechnologien basiert“. (Wiedemann 2016, p. 134)
+Während sich bei Hardt, Negri und Virno mit der Theorie der [[Multitude]] ein Konzept von Kollektivität finden lasse (vgl. Wiedemann 2016, p. 133) – als deren Basis die Produktion des Gemeinsamen beschrieben werde (vgl. Wiedemann 2016, p. 136), identifiziert Wiedemann [[Anonymous]] als Materialisierung jenes Konzepts – „ist Anonymous doch eine Kollektivität, die auf Kommunikationstechnologien basiert“. (Wiedemann 2016, p. 134)
 
 Kollektivität wird von Wiedemann so auf zunächst zweierlei Weisen begriffen, zum einen als Konzept und zum anderen als spezifische Materialisierung des Konzepts.
 
@@ -24,25 +24,35 @@ Die Multitude und Anonymous haben damit gemein, schließt Wiedemann, dass das Ge
 
 Während Anonymous eine Kollektivität sei, ist Austausch, Kommunikation und das Teilen im Vollzug Kollektivität.
 
-Wiedemann schlägt als Definition von Kollektivität vor: „in der Verbindung, in dem Moment, in dem sich Elemente zusammenfügen, haben sie gemeinsam Agency, also die Fähigkeit, eine Handlung zu initiieren, die einen transformatorischen Effekt hat (Latour 2005: 53).“ (Wiedemann 2016, p. 40) und schreibt im Aufsatz ‚Between Swarm, Network, and Multitude – Anonymous and the Infrastructures of the Common‘:
+Wiedemann schlägt als Definition von Kollektivität vor: „in der Verbindung, in dem Moment, in dem sich Elemente zusammenfügen, haben sie gemeinsam _Agency_, also die Fähigkeit, eine Handlung zu initiieren, die einen transformatorischen Effekt hat (Latour 2005: 53).“ (Wiedemann 2016, p. 40) und schreibt im Aufsatz ‚Between Swarm, Network, and Multitude – Anonymous and the Infrastructures of the Common‘:
 
 > People who did not know each other, who just gathered on 4chan, became Anonymous, a collectivity that was not based on a common political agenda or a collective identity, but on an assembling of individuals that had agency in the sense of an ability to perform action that has a transforming effect (see Latour 2005: 53f.). […]
 > 
 > A phenomenon such as Anonymous, however, demands that we focus exactly on the operative level of the constitution of collectivity, the potential agency that turns the random gathering of people into a temporary community. (Wiedemann 2016, p. 152)
 
-## [[Technologien des Gemeinsamen]] / Herstellung von Kollektivität
+## Technologien des Gemeinsamen / Herstellung von Kollektivität
 
 > Während sich hinsichtlich des Konzepts der Multitude die scheinbar unbeantwortbare Frage stellt, wie dieses Gemeinsame unter Wahrung der Differenz hergestellt werden kann (vgl. Thacker 2009: 63), entgegnet Anonymous: Indem im Netz anonym kommuniziert und kooperiert wird. Damit erweitert Anonymous die durch das Theorem der Multitude vorgeschlagene Perspektive auf „offene Kollektivität“ auf präzise Weise. „Informations- und Kommunikationsfreiheit für alle“ wird also nicht nur als das Ziel, sondern als das Tool beschrieben. Anonymous zufolge ist anonyme Kommunikation Voraussetzung für Dezentralität und Offenheit von Kollektivität.
 > -- (Wiedemann 2016, p. 138)
 
+Im Rückgriff auf [[Soenke Zehle]]s _[[Technologien des Gemeinsamen|Technologies du Commun]]_ und Zehles und [[Ned Rossiter]]s _Organizing Networks_, bespricht Wiedemann die Performativität[^2] von Anonymous und stellt fest: 
+> Es gibt Anonymous nicht jenseits vom Austausch in den digitalen Netzwerken, nicht jenseits vom Erleben des Gemeinsamen in der Kommunikation und den Aktionen der Menschen mit Guy Fawkes-Masken, zu denen im Netz kurzfristig aufgerufen wird. (Wiedemann 2016, S. 139)
+
+Auf Zehles' und Rossiters' "technology is not social because it supports the organization of social movements, but because it affects the constitution of the social" (Zehle 2008, S. 250) folgt bei Wiedemann: "Anonymous ist gleichzeitig die Idee einer Kollektivität und jene Kollektivität, die sich allein im Vollzug realisiert, durch die anonyme Kommunikation, in der das Gemeinsame produziert wird." (Wiedemann 2016, S. 139)
+
+Zehles' und Rossiters' reziproke Beziehung zwischen _form_ und _expression_ [^3] wendet Wiedemann auf Anonymous an - "Die Form (Netzwerk, Schwarm) und der Ausdruck (die Produktion des Gemeinsamen, Multitude) von Anonymous bedingen sich wechselseitig" (Wiedemann 2016, S. 139) - und schließt nach einem Rekurs auf die "genealogischen Linien des _mediums_, das im Lateinischen eine Mitte benannte, die einen offen-vagen Begriff von Öffentlichkeit, von öffentlichem Raum, vom Gemeinsamen nahe legt" (Wiedemann 2016, S. 139), die bei Deleuze und Guattari ein reißender Strom sei, eine Fluchtlinie, in der sich alles beschleunige, in der sich die Verkettung der Singularitäten als _und_ ereigne (vgl. Raunig 2007 zit. nach Wiedemann 2016, S. 139):
+> Offene, nicht-repräsentationistische Kollektivität ereignet sich, wenn Form und Ausdruck der Kollektivität sich und damit die Kollektivität wechselseitig als Bewegung kommunikativ und kooperativ konstituieren. (Wiedemann 2016, S. 139 f.)
+
 ## Fußnoten
 
 [^1]: So wie etwas eine (bestimmbare) Aktivität sein kann (Lesen, Schreiben, Denken, Spielen, Unterhalten = bestimm- und unterscheidbare Aktivitäten) oder (unbestimmte) Aktivität ausgemacht werden kann („Ich konnte dort gestern (insgesamt) eine höhere Aktivität feststellen als vorgestern.“). Fragen: Liegt der Unterschied zwischen den Ontologien der Aktivität im ‚Haben‘ und im ‚Sein‘? – Eine Aktivität sein vs. haben? Bestehen bestimmbare Kollektivitäten wie bestimmbare Aktivitäten aus Aktanten, Techniken, Regeln?
+[^2]: "In den Konstitutionsprozessen von Anonymous ist eine operative Logik, die auf der Technizität oder Affektivität basiert, einer Logik der Repräsentation immer einen Schritt voraus. Erst in der Bewegung, im anonymen Austausch, im Verbinden, das zum Berühren wird, entsteht das _wir_ performativ." (Wiedemann 2016, S. 117)
+[^3]: "Form enables a structure of expression just as expression defines the borders of form."  (Zehle 2008, S. 250)
 
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
 [Wiedemann]: Wiedemann.md "Carolin Wiedemann"
 [Multitude]: Multitude.md "Multitude"
 [Anonymous]: Anonymous.md "Anonymous"
-[Technologien des Gemeinsamen]: <Technologien des Gemeinsamen.md> "Technologien des Gemeinsamen"
+[Technologien des Gemeinsamen|Technologies du Commun]: <Technologien des Gemeinsamen.md> "Technologien des Gemeinsamen"
 [//end]: # "Autogenerated link references"
