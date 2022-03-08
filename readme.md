@@ -1,5 +1,4 @@
 ---
-title: Über dieses Wiki
 tags: 
   - Bewegung
 ---

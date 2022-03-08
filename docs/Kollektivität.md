@@ -1,9 +1,3 @@
----
-title: Kollektivität
-tags: 
-  - Bewegung
----
-
 # (Ambiguitäten der) Kollektivität
 
 ## Konzept und Materialisierung
@@ -47,7 +41,7 @@ Im Rückgriff auf [[Soenke Zehle]]s _[[Technologien des Gemeinsamen|Technologies
 Auf Zehles' und Rossiters' "technology is not social because it supports the organization of social movements, but because it affects the constitution of the social" (Zehle 2008, S. 250) folgt bei Wiedemann: "Anonymous ist gleichzeitig die Idee einer Kollektivität und jene Kollektivität, die sich allein im Vollzug realisiert, durch die anonyme Kommunikation, in der das Gemeinsame produziert wird." (Wiedemann 2016, S. 139)
 
 Wiedemann wendet Zehles' und Rossiters' reziproke Beziehung zwischen _form_ und _expression_ [^3] auf Anonymous an - "Die Form (Netzwerk, Schwarm) und der Ausdruck (die Produktion des Gemeinsamen, Multitude) von Anonymous bedingen sich wechselseitig" (Wiedemann 2016, S. 139) - und schließt nach einem Rekurs auf die "genealogischen Linien des _mediums_, das im Lateinischen eine Mitte benannte, die einen offen-vagen Begriff von Öffentlichkeit, von öffentlichem Raum, vom Gemeinsamen nahe legt" (Wiedemann 2016, S. 139), die bei Deleuze und Guattari ein reißender Strom sei, eine Fluchtlinie, in der sich alles beschleunige, in der sich die Verkettung der Singularitäten als _und_ ereigne (vgl. Raunig 2007 zit. nach Wiedemann 2016, S. 139):
-> Offene, nicht-repräsentationistische Kollektivität ereignet sich, wenn Form und Ausdruck der Kollektivität sich und damit die Kollektivität wechselseitig als _#Bewegung_ kommunikativ und kooperativ konstituieren. (Herv. d. Verf.) (Wiedemann 2016, S. 139 f.)
+> Offene, nicht-repräsentationistische Kollektivität ereignet sich, wenn Form und Ausdruck der Kollektivität sich und damit die Kollektivität wechselseitig als #Bewegung kommunikativ und kooperativ konstituieren. (Herv. d. Verf.) (Wiedemann 2016, S. 139 f.)
 
 ## Fußnoten
 
