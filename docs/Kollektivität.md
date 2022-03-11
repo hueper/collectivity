@@ -1,6 +1,7 @@
 ---
 tags: 
   - Bewegung
+  - Widerspruch
 ---
 
 # (Ambiguitäten der) Kollektivität
