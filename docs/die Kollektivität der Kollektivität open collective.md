@@ -1,3 +1,12 @@
+---
+title:
+tags:
+  - Aseem-Sood
+  - Xavier-Damman
+  - Pia-Mancini
+  - 501(c)
+---
+
 ## Kollektivität und Technologien des Gemeinsamen bei open collective
 
 ### _Motivation_ von Open Collective
