@@ -21,7 +21,7 @@ Der Greif- und Nutzbarkeit einer visualisierten Begriffskonstellation soll in di
 Die Graph-Visualisierung ist über den Button "Show Graph Visualisation" erreichbar, der sich auf der Webseite https://hueper.github.io/collectivity/ oben rechts befindet. Nach einem Klick auf den Button wird ein Graph angezeigt, in dem **Beiträge** und **Tags** als Knoten (Nodes) und Beziehungen zwischen den Beiträgen als Kanten (edge) dargestellt werden. Die Beziehungen zwischen den Beiträgen werden durch **Wikilinks** innerhalb der Beiträge hergestellt. Ein _Tag_ stellt eine Verbindungen zwischen Beiträgen her, ohne selbst ein Beitrag zu sein und ist durch ein vorangestelltes ```#``` erkennbar.  
 
 ### Links
-Ein Wikilink ist ein Link, der auf einen Beitrag innerhalb dieser Arbeit verweist, durch zwei eckige Klammern gekennzeichnet ist und so aussehen kann: ```[[DAO]]```. Neben den Wikilinks gibt es Links, die auf Ressourcen verweisen, die sich außerhalb dieser Arbeit befinden, sie erscheinen in blauer Schrift.
+Ein Wikilink ist ein Link, der auf einen Beitrag innerhalb dieser Arbeit verweist, durch zwei eckige Klammern gekennzeichnet ist und so aussehen kann: [[DAO]]. Neben den Wikilinks gibt es Links, die auf Ressourcen verweisen, die sich außerhalb dieser Arbeit befinden, sie erscheinen in blauer Schrift.
 
 ### Beiträge
 Es gibt vier verschiedene Typen von Beiträgen:
@@ -34,6 +34,7 @@ Es gibt vier verschiedene Typen von Beiträgen:
 Um das Lesen dieser Arbeit zu erleichtern und einer argumentativen Stringenz näher zu kommen, findet sich am Ende einiger Beiträge eine Lese-Empfehlung für den nächsten Beitrag.
 
 ## Fazit
+Kollektivität wird von Wiedemann 
 
 ## Leseempfehlung
 [[Untersuchung einer Bewegung (Einführung)]]
