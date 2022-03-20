@@ -1,9 +1,24 @@
+## Multitude
+Die Multitude ist eine Figur, ein Konzept, eine Idee von einer Kollektivität. "Sie ist ebenso eine Versammlung [aggregation] wie eine Differenzierung [differentiation], eine Ausströmung [emanation] wie eine Kontraktion, aber weder eine Gruppe noch eine Anzahl von Individuen." (Thacker 62)
+
+In _Open Collectivity_ bezieht sich Wiedemann erstrangig auf die Multitude bei Antonio Negri und Michael Hardt, die diese in _Empire. Globalization as a new Roman order, awaiting its early Christians_ besprechen.
+
+Die Multitude ist allerdings auch "ein Begriff, der von Machiavelli, Hobbes, Spinoza und späteren politischen Theoretikern wie Locke und Rousseau verwendet wurde" (Thacker 57). Thacker führt an, dass zwischen diesen Denkern kaum Einigkeit darüber herrsche, was der Begriff bedeute (vgl. ebd. 57).
+> Zeitweise wird »Multitude« als Synonym für das, was man »Masse« oder »Volk« nennen kann, gebraucht, während zu anderen Zeiten die Multitude eine sehr spezifische politische Aufladung als konstitutive Kraft des sozialen und politischen Lebens selbst erfährt. (ebd. 57)
+Cicero verwendet den Begriff in _De re publica_: "Est igitur, inquit Africanus, res publica res populi, populus autem non omnis hominum coetus quoquo modo congregatus, sed coetus **multitudinis** iuris consensu et utilitatis communione sociatus." (Cicero Buch 1 Kap. 39)
+
+In _Netzwerke - Schwärme - Multitudes_ arbeitet Thacker trotz oder vielleicht gerade wegen dieser Uneinigkeit über das Wesen der Multitude eine Art Katalog über ihre Eigenschaften heraus. Allen Eigenschaften voran, erklärt Thacker: "Was auch immer der Fall sein mag, die Multitude scheint immer »quer« zu ihren eigenen Voraussetzungen zu stehen; denn sie konstituiert eine soziale und politische Ordnung und widersteht dieser gleichzeitig." (Thacker 58)
+
+Für die Untersuchungen in dieser Arbeit sind vor allem der Widerspruch (Differenz), die Vielheit - bestehend aus Singularitäten -, das Interesse und der Vollzug einer stetigen Transformation interessant:
+
+Thacker beschreibt die Multitude als etwas, das vor allem mit seiner eigenen Konstitution, mit ihrer Fähigkeit beschäftigt sei, "sowohl dem Konsens als auch dem Dissens einen Raum zu geben." (vgl. Thacker 59) Sie sei eine Mannigfaltigkeit [multiplicity] von Singularitäten, eine Differenz, die eine Wiederholung sei, eine Kontraktion und eine Expansion, eine Systole und eine Diastole. (vgl. ebd. 60) Sie sei dadurch gehindert, eins zu werden, dass sie durch eine Vielfalt von Interessen, Affekten und Relationen bestimmt sei. (vgl. ebd. 60) Sie besitze keinen Gesellschaftsvertrag und sei nicht als im Moment gegebene Einheit-durch-Konsens konstituiert. Ihre vielfältigen Interessen decken sich höchstens in einer äußerst flüchtigen, vernetzten Form. (vgl. ebd. 60) Insbesondere ihre "Opposition zur Tradition des Gesellschaftsvertrags" stellt Thacker als "durchgängigste[s] Merkmal gegenwärtiger Theorien der Multitude" heraus. (vgl. ebd. 60) Es leuchtet daher ein, wenn "[d]ie Frage, die sich die Multitude stellt, lautet: »Kann die Multitude sich selbst regieren?« anstelle der Frage, die der Multitude gestellt wird: »Ist die Multitude regierbar?«" (ebd. 63)
+
 Widerspruch/Differenz
 * "Grundsätzlich ist die Multitude also vor allem mit ihrer eigenen Konstitution beschäftigt, und damit mit ihrer Fähigkeit, sowohl dem Konsens als auch dem Dissens einen Raum zu geben." (Thacker 59)
 * "Eine Mannigfaltigkeit [multiplicity] von Singularitäten, eine Differenz, die eine Wiederholung ist, eine Kontraktion und eine Expansion, eine Systole und eine Diastole." (ebd. 60)
 
 Singularität
-* "Die Multitude ist in dem Sinne vielfach [multiple], wie Vorstellungen von »der Gruppe« und »dem Volk« eine signifi kante Anzahl von individuellen Körpern implizieren, die wiederum so zusammengefügt sind, dass sie eins werden. In diesem Sinne ist die Multitude singulär." (ebd. 59) Aber keine Singularität. (vgl. ebd. 59)
+* "Die Multitude ist in dem Sinne vielfach [multiple], wie Vorstellungen von »der Gruppe« und »dem Volk« eine signifikante Anzahl von individuellen Körpern implizieren, die wiederum so zusammengefügt sind, dass sie eins werden. In diesem Sinne ist die Multitude singulär." (ebd. 59) Aber keine Singularität. (vgl. ebd. 59)
 * "Was die Multitude daran hindert, eins zu werden, ist, dass sie durch eine Vielfalt von Interessen, Affekten und Relationen bestimmt ist." (ebd. 60)
 * "Die Multitude ist ein Ganzes, das aus Singularitäten besteht." (ebd. 60)
 
@@ -30,11 +45,9 @@ Soenke Zehle schreibt, so Wiedemann, 2006 erstmals über die Technologien des Ge
 >
 > -- (Zehle [[Literatur|2008]], S. 249 f.)
 
-Open Collective entstand so auf einem Nährboden, der unter anderem durch eine Kritik an Repräsentation gekennzeichnet ist, gibt sich dabei aber (bislang) nicht wie Anonymous "aus als eine Kollektivität ohne Anführer_innen, an der alle Menschen gleichermaßen teilhaben können" (Wiedemann [[Literatur|2016]], S. 135). Sichtbar wird aber dennoch der Wunsch nach einer Bewegung einer Kollektivität _um_ Open Collective, hin zu einer "Assoziation einer Vielfalt heterogener, nicht hierarchisch angeordneter Akteure, die sich weder auf eine übergeordnete Instanz noch auf die Selbstvergewisserung über identitäre Positionen kollektiver Subjektivitäten beruft" (Pieper [[Literatur|2007]], S. 237) - einer Multitude.
+Open Collective entstand so auf einem Nährboden, der unter anderem durch eine Kritik an Repräsentation gekennzeichnet ist, gibt sich dabei aber (bislang) nicht wie Anonymous "aus als eine Kollektivität ohne Anführer\_innen, an der alle Menschen gleichermaßen teilhaben können" (Wiedemann [[Literatur|2016]], S. 135). Sichtbar wird aber dennoch der Wunsch nach einer Bewegung einer Kollektivität _um_ Open Collective, hin zu einer "Assoziation einer Vielfalt heterogener, nicht hierarchisch angeordneter Akteure, die sich weder auf eine übergeordnete Instanz noch auf die Selbstvergewisserung über identitäre Positionen kollektiver Subjektivitäten beruft" (Pieper [[Literatur|2007]], S. 237) - einer Multitude.
 
 Open Collective befindet sich so nicht erst seit der Ankündigung eines "Exit to Community" in einem Transformationsprozess, sondern _ist_ selbst bereits von Anfang an eine Transformation, eine Bewegung, ein Vollzug, eine Kollektivität.
-
-
 
 ## Blockchains and DAOs as the Modern Leviathan
 In dem Blogpost [Blockchains and DAOs as the Modern Leviathan](https://philosophicaldisquisitions.blogspot.com/2016/03/blockchains-and-daos-as-modern-leviathan.html) von John Danaher werden Blockchains und DAOs als moderner Leviathan bezeichnet. Danaher bezieht sich auf Hobbes' Konzept des Staats und dem diesem Konzept zugrundeliegenden "Trust Problem". Um das Trust Problem zu lösen (und friedlich miteinander leben zu können) wird bei Hobbes eine besondere, einmalige Verabredung (en: agreement) getroffen, durch die ein _artificial being_ konstituiert wird, dem alle _‘natural’ rights and powers_ übertragen werden. (vgl. [[Literatur|Danaher]] 2016, Online). Die Verabredung heißt Gesellschaftsvertrag und das artificial being Leviathan. Aufbauend auf der initialen Verabredung können weitere Verabredungen getroffen werden, beispielsweise Verabredungen, die den Transfer und die Verteilung von Grundstück betreffen. (vgl. [[Literatur|ebd.]] 2016, Online)
