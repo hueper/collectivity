@@ -28,6 +28,7 @@
   "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
   "vscodeMarkdownNotes.slugifyMethod": "github-slugger",
   "spellright.language": [
+    "de",
     "en"
   ],
   "spellright.documentTypes": [

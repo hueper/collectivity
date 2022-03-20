@@ -11,7 +11,7 @@ tags:
 
 ## _Motivation_ von Open Collective
 
-Am 2. Februar 2016 betitelt Xavier Damman, einer der Gründer\*innen von Open Collective, einen Blogpost für Open Collective: "[Pia Mancini and Aseem Sood join OpenCollective as cofounders](https://blog.opencollective.com/pia-mancini-and-aseem-sood-join-opencollective-as-cofounders/)".
+Am 2. Februar 2016 schreibt Xavier Damman, einer der Gründer\*innen von Open Collective, einen Blogpost für Open Collective: "[Pia Mancini and Aseem Sood join OpenCollective as cofounders](https://blog.opencollective.com/pia-mancini-and-aseem-sood-join-opencollective-as-cofounders/)".
 Heute, sechs Jahre später, am 9. März 2022 ist Damman bei [DAO.Brussels](https://dao.brussels/) und [All for Climate DAO](https://dao.allforclimate.earth/) involviert[^1], Mancini ist bei Open Collective geblieben, aber nach wie vor auch eine der Vorsitzenden der [[democracy-earth]] Foundation (dort war Mancini schon vor Open Collective)[^2], und Aseem Sood ist heute als Produktmanager bei [[Uniswap]] beschäftigt[^3]. So sind alle drei Gründer*innen vor, während oder nach ihrer Tätigkeit bei Open Collective in [[DAO]]s engagiert.
 Damman schreibt in dem Artikel wie die drei sich kennengelernt haben:
 > Pia is the cofounder of DemocracyEarth (YC2015) and of the Net Party in Buenos Aires. Like me, she is passionate about redefining our institutions for the Internet era. She did a brilliant TED talk about it that I invite you to watch if you haven’t already.
@@ -23,7 +23,7 @@ Damman schreibt in dem Artikel wie die drei sich kennengelernt haben:
 > -- https://blog.opencollective.com/pia-mancini-and-aseem-sood-join-opencollective-as-cofounders/
 
 Zwei Monate zuvor, im Dezember 2015, veröffentlicht Damman einen Artikel "[A New Form of Association for the Internet Generation — part 1](https://medium.com/open-collective/a-new-form-of-association-for-the-internet-generation-part-1-6d6c4f5dd27f#.n2ltj09a0)" auf Medium, aus dem sich die Motivation für die Gründung von Open Collective lesen lässt.
-Damman beklagt in dem Artikel, dass es zu lange dauern würde, um eine Non-Profit Organisation (_501(c)_ in den USA bzw. _Association loi de 1901_ in Frankreich) zu gründen, welche nötig sei um Spenden zu empfangen. Das führt ihn zu der Forderung: "Creating an association should be as easy as creating a Facebook Group. For most cases, we shouldn’t have to worry about creating and maintaining a legal entity." Weiter fragt Damman: "[W]hat if we could create new associations on a more open and transparent model, where the collected money wouldn’t go into a blackbox, where we wouldn’t need to file annual reports with consolidated numbers, and where corruption would be impossible _by design_?" Damman sieht nun zwei mögliche Lösungsansätze: Entweder Regierungen davon zu überzeugen den gesetzlichen Rahmen zu erneuern - "We can lobby our governments to update the legal framework. [...] But it will take years, if it ever happens. Plus, the problem is not limited to one country. It’s a global issue.", dder auf einer anderen Ebene anzusetzen, die ihn zu einem Vergleich zwischen Regierungen und Betriebssystemen führt:
+Damman beklagt in dem Artikel, dass es zu lange dauern würde, um eine Non-Profit Organisation (_501(c)_ in den USA bzw. _Association loi de 1901_ in Frankreich) zu gründen, welche nötig sei um Spenden zu empfangen. Das führt ihn zu der Forderung: "Creating an association should be as easy as creating a Facebook Group. For most cases, we shouldn’t have to worry about creating and maintaining a legal entity." Weiter fragt Damman: "[W]hat if we could create new associations on a more open and transparent model, where the collected money wouldn’t go into a blackbox, where we wouldn’t need to file annual reports with consolidated numbers, and where corruption would be impossible _by design_?" Damman sieht nun zwei mögliche Lösungsansätze: Entweder Regierungen davon zu überzeugen den gesetzlichen Rahmen zu erneuern - "We can lobby our governments to update the legal framework. [...] But it will take years, if it ever happens. Plus, the problem is not limited to one country. It’s a global issue.", oder auf einer anderen Ebene anzusetzen, die ihn zu einem Vergleich zwischen Regierungen und Betriebssystemen führt:
 > We have seen that movie before. We couldn’t fix Microsoft Windows, so we built web browsers on top of it. They allowed anyone to innovate by building new web services without having to worry about the underlying complexity (and bugs) of the operating system.
 > 
 > Governments are also operating systems. Instead of managing hardware, interruptions and other bits, they manage a territory, natural resources and citizens. It’s a geographically constrained operating system engineered hundreds of years ago, way before people could communicate in real time across the globe.
@@ -47,11 +47,14 @@ Wenn Wiedmann schreibt, „Anonymous gibt sich aus als eine Kollektivität ohne 
 
 Im Gegensatz zu Anonymous lautet die Antwort von Open Collective auf die Frage danach wie ein [[Kollektivität#Technologien des Gemeinsamen / Herstellung von Kollektivität|Gemeinsames hergestellt]] werden kann aber nicht "Indem im Netz anonym kommuniziert und kooperiert wird" (Wiedemann 2016, S.139). Im Gegenteil, betrachtet man die Experimente von democracy.earth oder [[a speculative sketch of a dao with open collective]] von [[RadicalXChange]], so wird deutlich, dass Anonymität im Bereich einer erweiterten Community, einer [[Ethereum Community]], an die jene Kollektivitäten democracy.earth und RadicalXChange gekoppelt sind, zwar gegeben sein kann (s. [[DAO Fork]]), diese aber zumindest in der [Skizze](https://www.radicalxchange.org/media/blog/a-speculative-sketch-of-a-dao-with-open-collective/) von [[Matt Prewitt]] entfällt.
 
+## Leseempfehlung
+[[a speculative sketch of a dao with open collective]]
+ 
 ## Fußnoten
-[^1]: https://www.linkedin.com/in/xavierdamman/
-[^2]: https://www.linkedin.com/in/piamancini/
-[^3]: https://www.linkedin.com/in/aseems/
-[^4]: https://blog.opencollective.com/pia-mancini-and-aseem-sood-join-opencollective-as-cofounders/
+[^1]: Linkedin-Profil: https://www.linkedin.com/in/xavierdamman/
+[^2]: Linkedin-Profil: https://www.linkedin.com/in/piamancini/
+[^3]: Linkedin-Profil: https://www.linkedin.com/in/aseems/
+[^4]: vgl. https://blog.opencollective.com/pia-mancini-and-aseem-sood-join-opencollective-as-cofounders/
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
 [democracy-earth]: democracy-earth.md "democracy.earth"

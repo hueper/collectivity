@@ -7,7 +7,7 @@ In dieser Arbeit werden die von Carolin Wiedemann herausgearbeiteten _Ambiguitä
 Für die Form dieser Arbeit werden Foam[^1] und git[^2] gewählt, wodurch sich die folgenden Fragen stellen:
 1. Welche Möglichkeiten und Qualitäten ergeben sich?
 2. Wie kann eine durch Nutzung von Foam hervorgebrachte Struktur einem Anspruch an Wissenschaftlichkeit genügen?
-3. Wie kann eine argumentative Kohärenz in einem non-linearen Text hergestellt werden? (Durch eine [[readme#Leseempfehlung|Leseempfehlung]])
+3. Wie kann eine argumentative Kohärenz in einem non-linearen Text hergestellt werden? (Durch eine [[readme#Leseempfehlung|Leseempfehlung]]?)
 
 Mit Foam und git wird eine Sichtbarkeit von wissenschaftlichen Prozessen ermöglicht: Es fließen Rechercheergebnisse, Notizen, Zusatzinfos, etc. in die Arbeit und ihre [Versionen](https://github.com/hueper/collectivity/commits/main) ein, die in einer einzelnen Textdatei verloren gehen. Die Möglichkeiten von Fußnoten in PDFs oder auf DinA4-Seiten sind (schon allein räumlich) begrenzt und können _Danebenliegendes_ nicht in gleicher Qualität abbilden. Außerdem wird die Möglichkeit in verschiedene Richtungen zu schreiben durch Foam begünstigt, was einer gradlinigen Argumentationslinie vielleicht entgegensteht, dafür aber neue _Begriffskonstellationen_ hervorbringen kann.
 
@@ -27,14 +27,21 @@ Ein Wikilink ist ein Link, der auf einen Beitrag innerhalb dieser Arbeit verweis
 Es gibt vier verschiedene Typen von Beiträgen:
 1. Längere Artikel, die den Hauptteil der Arbeit ausmachen.
 2. Zusatzinformationen, z.B. zu Begriffen wie [[DAO]], zu Institutionen wie [[RadicalxChange]] oder zu Personen. In den meisten Fällen sind die Inhalte dieser Beiträge zusammengestellte Zitate, die einem Wunsch nachkommen sollen beim Lesen des Beitrags Hintergrundinformationen zu erhalten, ohne aus dem Lesefluss zu kommen.
-3. Leere Beiträge: Diese halten bis auf ihre Betitelung keine Informationen vor und stellen in gewisserweise (vorläufige) _dead ends_ dar. Da von ihnen aber angenommen wird, dass ein Denken in ihre Richtung einem Erfassen des Dispositivs des Gemeinsamen zuträglich ist, bleiben sie erhalten. Ein Beispiel ist: [[Gilles Deleuze]]
+3. Leere Beiträge: Diese halten bis auf ihre Betitelung keine Informationen vor und stellen in gewisser Weise (vorläufige) _dead ends_ dar. Da von ihnen aber angenommen wird, dass ein Denken in ihre Richtung einem Erfassen des Dispositivs des Gemeinsamen zuträglich ist, bleiben sie erhalten. Ein Beispiel ist: [[Gilles Deleuze]]
 4. Ein besonderer Beitrag ist [[Literatur]]. Hier befindet sich das Literaturverzeichnis.
 
 ### Empfehlungen
-Um das Lesen dieser Arbeit zu erleichtern und einer argumentativen Stringenz näher zu kommen, findet sich am Ende einiger Beiträge eine Lese-Empfehlung für den nächsten Beitrag.
+Um das Lesen dieser Arbeit zu erleichtern und einer argumentativen Stringenz näher zu kommen, findet sich am Ende einiger Beiträge eine Leseempfehlung für den nächsten Beitrag.
 
 ## Fazit
-Kollektivität wird von Wiedemann 
+* Kollektivitäten bei Wiedemann
+* Technologien des Gemeinsamen 
+  * Anon: Anonymität im Netz
+  * Multitude: Widerspruch
+  * Kollektivität _um_ Open Collective: Kryptographie und Proof of Work/Identity?
+* Open Collective als Kollektivität und Plattform und Bewegung und Transformation, Beantwortung der Frage, ob OC eine Open Collectivity ist (Offene, nicht-repräsentationistische Kollektivität ereignet sich, wenn Form und Ausdruck der Kollektivität sich und damit die Kollektivität wechselseitig als Bewegung kommunikativ und kooperativ konstituieren. (CW 139)).
+* Ethereum und DAOs
+* Hobbes Leviathan und Multitude
 
 ## Leseempfehlung
 [[Untersuchung einer Bewegung (Einführung)]]
