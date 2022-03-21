@@ -64,7 +64,7 @@ https://hueper.github.io/collectivity/latest/
 ## Fußnoten
 [^1]: "Foam is a personal knowledge management and sharing system inspired by Roam Research, built on Visual Studio Code and GitHub." https://foambubble.github.io/foam/
 [^2]: "Git [ɡɪt] ist eine freie Software zur verteilten Versionsverwaltung von Dateien, die durch Linus Torvalds initiiert wurde." https://de.wikipedia.org/wiki/Git. Sowohl Ethereum als auch git sind Implementierungen von [Merkle Trees](https://en.wikipedia.org/wiki/Merkle_tree), weshalb immer wieder die Frage gestellt wird, ob auch git eine Blockchain sei. Annäherungen finden sich bei Kelsey Hightowers Tweet vom 15. Februar 2022: "[Git is a blockchain. Dope since 2005.](https://twitter.com/kelseyhightower/status/1493710169431162880)", auf Stackoverflow: [Why is Git not considered a "block chain"?](https://stackoverflow.com/questions/46192377/why-is-git-not-considered-a-block-chain) und in Nicholas Weavers Vortrag vom 24. Februar 2022 über Cryptocurrencies: https://www.youtube.com/watch?v=J9nv0Ol-R5Q
-[^3]: So beantwortet auch Thacker die Frage danach, ob die Multitude heute existiert unentschieden und mahnt, nicht "all die Spannungen und Widersprüche zu vergessen, die die Multitude ausmachen". (Thacker S. 63)
+[^3]: So beantwortet auch Thacker die Frage danach, ob die Multitude heute existiert unentschieden und mahnt, nicht "all die Spannungen und Widersprüche zu vergessen, die die Multitude ausmachen". (Thacker [[Literatur|2009]], S. 63)
 
 [DAO]: docs/DAO.md "DAO"
 [Agencement|Gefüges]: docs/Agencement.md "Gefüges"
@@ -75,3 +75,4 @@ https://hueper.github.io/collectivity/latest/
 [Literatur|2016]: docs/Literatur.md "2016"
 [Untersuchung einer Bewegung (Einführung)]: <docs/Untersuchung einer Bewegung (Einführung).md> "Untersuchung einer Bewegung"
 [Literatur|ebd.]: docs/Literatur.md "ebd."
+[Literatur|2009]: docs/Literatur.md "2009"
