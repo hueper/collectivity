@@ -1,36 +1,44 @@
 # DAO fork
 
-> Picture this: A thief steals millions of dollars by hacking into an investment fund. What if you could just hit the undo button and get that money back? - [How a $64M hack changed the fate of Ethereum, Bitcoin's closest competitor](https://www.cbc.ca/news/science/ethereum-hack-blockchain-fork-bitcoin-1.3719009)
+> Picture this: A thief steals millions of dollars by hacking into an investment fund. What if you could just hit the undo button and get that money back?
+>  
+> -- https://www.cbc.ca/news/science/ethereum-hack-blockchain-fork-bitcoin-1.3719009
 
 ## What was [[the DAO]] #hack?
 > On June 17, 2016, the DAO was subjected to an attack exploiting a combination of vulnerabilities, including the one concerning recursive calls, that resulted in the transfer of 3.6 million Ether - around a third of the 11.5 million Ether that had been committed to The DAO - valued at the time at around $50M. The funds were moved into an account subject to a 28-day holding period under the terms of the Ethereum smart contract so were not actually gone.
 >
-> Members of The DAO and the Ethereum community debated what to do next, with some calling the attack a valid but unethical maneuver, others calling for the Ether to be re-appropriated, and some calling for The DAO to be shut down. Eventually, the Ethereum network was hard forked to move the funds in The DAO to a recovery address where they could be exchanged back to Ethereum by their original owners. However, some continued to use the original unforked Ethereum blockchain, now called Ethereum Classic. 
-[The_DAO_(organization)](https://en.wikipedia.org/wiki/The_DAO_(organization))
+> Members of The DAO and the Ethereum community debated what to do next, with some calling the attack a valid but unethical maneuver, others calling for the Ether to be re-appropriated, and some calling for The DAO to be shut down. Eventually, the Ethereum network was hard forked to move the funds in The DAO to a recovery address where they could be exchanged back to Ethereum by their original owners. However, some continued to use the original unforked Ethereum blockchain, now called Ethereum Classic.
+> 
+> -- https://en.wikipedia.org/wiki/The_DAO_(organization)
 
 > The DAO had become such a heavily invested project that its contracts contained approximately 14% of all ether (ETH) in circulation at the time. 
-[Gemini: What Was The DAO?](https://www.gemini.com/cryptopedia/the-dao-hack-makerdao#section-the-dao-hack)
+> 
+> -- https://www.gemini.com/cryptopedia/the-dao-hack-makerdao#section-the-dao-hack
 
 > The DAO controlled $150M worth of ether, and an attacker exploited a bug to extract $60M of that. This current reality is unacceptable to many people.
 > The only way to get the ether back is to create an alternate reality where the attacker does not have anything.
-[Stick a Fork in Ethereum](https://elaineou.com/2016/07/18/stick-a-fork-in-ethereum/)
+> 
+> -- https://elaineou.com/2016/07/18/stick-a-fork-in-ethereum/
 
 > Blockchain Company's Smart Contracts Were Dumb
 > What matters more: What the code said or what people thought it said?
-[Blockchain Company's Smart Contracts Were Dumb](https://www.bloomberg.com/opinion/articles/2016-06-17/blockchain-company-s-smart-contracts-were-dumb)
+> 
+> -- https://www.bloomberg.com/opinion/articles/2016-06-17/blockchain-company-s-smart-contracts-were-dumb
 
 ### Who hacked The DAO? (Und warum ist das (un)interessant?)
 Am 22.02.2022 schreibt [[Laura Shin]] in einem Artikel auf forbes.com:
 > Who hacked The DAO? My exclusive investigation, built on the reporting for my new book, The Cryptopians: Idealism, Greed, Lies, and the Making of the First Big Cryptocurrency Craze, appears to point to Toby Hoenisch, a 36-year-old programmer who grew up in Austria and was living in Singapore at the time of the hack. [...] Last year, as I was working on my book, my sources and I, utilizing (among other things), a powerful and previously secret forensics tool from crypto tracing firm [[Chainalysis]], came to believe we had figured out who did it. Indeed, the story of The DAO and the six-year quest to identify the hacker, shows a lot about just how far the crypto world and the technology for tracking transactions have both come since the first crypto craze. Today, blockchain technology has gone mainstream. But as new applications arise, one of the first uses of crypto — as an anonymity shield — is in retreat, thanks to both regulatory pressure and the fact that transactions on public blockchains are traceable.
-[Exclusive: Austrian Programmer And Ex Crypto CEO Likely Stole $11 Billion Of Ether](https://www.forbes.com/sites/laurashin/2022/02/22/exclusive-austrian-programmer-and-ex-crypto-ceo-likely-stole-11-billion-of-ether/)
+> -- https://www.forbes.com/sites/laurashin/2022/02/22/exclusive-austrian-programmer-and-ex-crypto-ceo-likely-stole-11-billion-of-ether/
 
 ### Ethereum.org über den DAO hack
-Über den DAO fork heißt es auf der Webseite [ethereum.org][eth-history]:
+Über den DAO fork heißt es auf der Webseite https://ethereum.org:
 > The DAO fork was in response to the 2016 DAO attack where an insecure DAO contract was drained of over 3.6 million ETH in a hack. The fork moved the funds from the faulty contract to a new contract with a single function: withdraw. Anyone who lost funds could withdraw 1 ETH for every 100 DAO tokens in their wallets.
 > 
 > This course of action was voted on by the Ethereum community. Any ETH holder was able to vote via a transaction on a voting platform. The decision to fork reached over 85% of the votes.
 > 
 > Some miners refused to fork because the DAO incident wasn't a defect in the protocol. They went on to form Ethereum Classic.
+> -
+> -- https://ethereum.org/en/history/
 
 In zitiertem Abschnitt wird auf die Voting Platform [CarbonVote][carbonvote-website] verwiesen, die aktuell (Stand: 21.02.2022) nicht erreichbar ist. Der [Quellcode der Webseite](https://github.com/consenlabs/carbonvote) kann aber auf GitHub eingesehen werden. Dort ist auch zu sehen, dass der letzte _commit_ vom 22. Juli 2016 stammt. Über archive.org lassen sich [verschiedene Screenshots der Webseite](https://web.archive.org/web/2021*/http://v1.carbonvote.com/) aus dem Zeitraum von 2017 bis Ende 2021 ansehen.
 
@@ -78,7 +86,7 @@ Dabei fällt zweierlei auf:
     > At this point, it’s important we bring all the communities that are only loosely connected together to voice. No matter where we go, no matter what you believe, what needs to be said needs to be heard.
     > ``</pre>``
     
-In der _Introduction to Ethereum governance_ heißt es im [Abschnitt zum DAO fork][eth-governance], ergänzend zu den Erläuterungen aus der [_History of Ethereum_][eth-history]:
+In der _Introduction to Ethereum governance_ heißt es im [Abschnitt zum DAO fork](https://ethereum.org/en/governance/#dao-fork), ergänzend zu den Erläuterungen aus der [History of Ethereum](https://ethereum.org/en/history/)]:
 > It's important to note that whilst the protocol did fork to revert the hack, the weight the vote carried in deciding to fork is debatable for a few reasons:
 > 1. The turnout to vote was incredibly low
 > 2. Most people didn't know the vote was happening

@@ -1,4 +1,0 @@
-# Leviathan
-
-#Hobbes
-#DAO

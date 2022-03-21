@@ -1,3 +1,1 @@
 # Ethereum
-
-## [[ENS]] und [[ICANN]]

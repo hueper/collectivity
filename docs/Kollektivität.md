@@ -8,7 +8,7 @@ tags:
 
 ## Konzept und Materialisierung
 
-[[Wiedemann]] verwendet den Begriff 'Kollektivität' "im Rahmen der Überlegungen zu einer Open Collectivity" (Wiedemann [[Literatur|2016]], p. 134) nicht "als Platzhalter für 'Gemeinschaft' […], sondern als Teil einer neuen Begriffskonstellation." ([[Literatur|ebd.]], S. 134)
+[[Wiedemann]] verwendet den Begriff 'Kollektivität' "im Rahmen der Überlegungen zu einer Open Collectivity" (Wiedemann [[Literatur|2016]], S. 134) nicht "als Platzhalter für 'Gemeinschaft' […], sondern als Teil einer neuen Begriffskonstellation." ([[Literatur|ebd.]], S. 134)
 
 Während sich bei Hardt, Negri und Virno mit der Theorie der [[Multitude]] ein Konzept von Kollektivität finden lasse (vgl. [[Literatur|ebd.]], S. 133) – als deren Basis die Produktion des Gemeinsamen beschrieben werde (vgl. [[Literatur|ebd.]], S. 136), identifiziert Wiedemann [[Anonymous]] als Materialisierung jenes Konzepts – "ist Anonymous doch eine Kollektivität, die auf Kommunikationstechnologien basiert". ([[Literatur|ebd.]], S. 134)
 

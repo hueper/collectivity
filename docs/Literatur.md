@@ -1,12 +1,27 @@
 ## Literatur
 
+Holley, Will (721.dev) (2021): https://github.com/721labs/partial-common-ownership
+
+Cicero, Marcus Tullius: De re publica
+
+Damman, Xavier (2014): https://medium.com/open-collective/a-new-form-of-association-for-the-internet-generation-part-1-6d6c4f5dd27f#.n2ltj09a0
+
+Damman, Xavier (2016): https://blog.opencollective.com/pia-mancini-and-aseem-sood-join-opencollective-as-cofounders/
+
 Deleuze, Gilles; Guattari, Félix (2005): Tausend Plateaus. [Nachdr.]. Berlin: Merve-Verl. (Kapitalismus und Schizophrenie / Gilles Deleuze Félix Guattari, 2).
+
+Hoobes, Thomas (1651): https://www.gutenberg.org/files/3207/3207-h/3207-h.htm
+
+Siri, Santiago et al. (DemocracyEarth) (2017): https://github.com/DemocracyEarth/paper#32_Proof_of_Identity
 
 Escape routes. Control and subversion in the twenty-first century (2010). London, Ann Arbor, MI: Pluto Press. Available online at https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=247424.
 
 Foucault, Michel (2017): Ästhetik der Existenz. Schriften zur Lebenskunst. Originalausgabe, 6. Auflage. Edited by Daniel Defert, François Ewald. Frankfurt am Main: Suhrkamp (suhrkamp taschenbuch wissenschaft, 1814).
 
 Müller, Julian (2015): Bestimmbare Unbestimmtheiten. Skizze Einer Indeterministischen Soziologie. Boston: BRILL. Available online at https://ebookcentral.proquest.com/lib/kxp/detail.action?docID=6515337.
+
+Open Collective (2022a): https://opencollective.com/e2c
+Prewitt, Matt (2022): a speculative sketch of a dao with open collective, Available online at https://www.radicalxchange.org/media/blog/a-speculative-sketch-of-a-dao-with-open-collective/
 
 Rossiter, Ned (2016): Software, Infrastructure, Labor. A media theory of logistical nightmares. New York: Routledge. Available online at https://www.taylorfrancis.com/books/9781135016388.
 

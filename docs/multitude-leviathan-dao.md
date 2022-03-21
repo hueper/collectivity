@@ -1,23 +1,25 @@
 ## Multitude
-Die Multitude ist eine Figur, ein Konzept, eine Idee von einer Kollektivität. "Sie ist ebenso eine Versammlung [aggregation] wie eine Differenzierung [differentiation], eine Ausströmung [emanation] wie eine Kontraktion, aber weder eine Gruppe noch eine Anzahl von Individuen." (Thacker 62)
+Die Multitude ist eine Figur, ein Konzept, eine Idee von einer Kollektivität. "Sie ist ebenso eine Versammlung [aggregation] wie eine Differenzierung [differentiation], eine Ausströmung [emanation] wie eine Kontraktion, aber weder eine Gruppe noch eine Anzahl von Individuen." (Thacker [[Literatur|2009]], S. 62)
 
 In _Open Collectivity_ bezieht sich Wiedemann erstrangig auf die Multitude bei Antonio Negri und Michael Hardt, die diese in _Empire. Globalization as a new Roman order, awaiting its early Christians_ besprechen.
 
-Die Multitude ist allerdings auch "ein Begriff, der von Machiavelli, Hobbes, Spinoza und späteren politischen Theoretikern wie Locke und Rousseau verwendet wurde" (Thacker 57). Thacker führt an, dass zwischen diesen Denkern kaum Einigkeit darüber herrsche, was der Begriff bedeute (vgl. ebd. 57).
-> Zeitweise wird »Multitude« als Synonym für das, was man »Masse« oder »Volk« nennen kann, gebraucht, während zu anderen Zeiten die Multitude eine sehr spezifische politische Aufladung als konstitutive Kraft des sozialen und politischen Lebens selbst erfährt. (ebd. 57)
+Die Multitude ist allerdings auch "ein Begriff, der von Machiavelli, Hobbes, Spinoza und späteren politischen Theoretikern wie Locke und Rousseau verwendet wurde" ([[Literatur|ebd.]], S. 57). Thacker führt an, dass zwischen diesen Denkern kaum Einigkeit darüber herrsche, was der Begriff bedeute (vgl. [[Literatur|ebd.]], S. 57).
+> Zeitweise wird »Multitude« als Synonym für das, was man »Masse« oder »Volk« nennen kann, gebraucht, während zu anderen Zeiten die Multitude eine sehr spezifische politische Aufladung als konstitutive Kraft des sozialen und politischen Lebens selbst erfährt.
+> 
+> -- ([[Literatur|ebd.]], S. 57)
 
-Cicero verwendet den Begriff in _De re publica_: "Est igitur, inquit Africanus, res publica res populi, populus autem non omnis hominum coetus quoquo modo congregatus, sed coetus **multitudinis** iuris consensu et utilitatis communione sociatus." (Cicero Buch 1 Kap. 39)
+Cicero verwendet den Begriff in _De re publica_: "Est igitur, inquit Africanus, res publica res populi, populus autem non omnis hominum coetus quoquo modo congregatus, sed coetus **multitudinis** iuris consensu et utilitatis communione sociatus." ([[Literatur|Cicero]], Buch 1 Kap. 39)
 
-In _Netzwerke - Schwärme - Multitudes_ arbeitet Thacker trotz oder vielleicht gerade wegen dieser Uneinigkeit über das Wesen der Multitude eine Art Katalog über ihre Eigenschaften heraus. Allen Eigenschaften voran, erklärt Thacker: "Was auch immer der Fall sein mag, die Multitude scheint immer »quer« zu ihren eigenen Voraussetzungen zu stehen; denn sie konstituiert eine soziale und politische Ordnung und widersteht dieser gleichzeitig." (Thacker 58)
+In _Netzwerke - Schwärme - Multitudes_ arbeitet Thacker trotz oder vielleicht gerade wegen dieser Uneinigkeit über das Wesen der Multitude eine Art Katalog über ihre Eigenschaften heraus. Allen Eigenschaften voran, erklärt Thacker: "Was auch immer der Fall sein mag, die Multitude scheint immer »quer« zu ihren eigenen Voraussetzungen zu stehen; denn sie konstituiert eine soziale und politische Ordnung und widersteht dieser gleichzeitig." (Thacker [[Literatur|2009]], S. 58)
 
 Für die Untersuchungen in dieser Arbeit sind vor allem der Widerspruch (Differenz), die Vielheit - bestehend aus Singularitäten -, das Interesse und der Vollzug einer stetigen Transformation interessant:
 
-Thacker beschreibt die Multitude als etwas, das vor allem mit seiner eigenen Konstitution, mit ihrer Fähigkeit beschäftigt sei, "sowohl dem Konsens als auch dem Dissens einen Raum zu geben." (vgl. Thacker 59) Sie sei eine Mannigfaltigkeit [multiplicity] von Singularitäten, eine Differenz, die eine Wiederholung sei, eine Kontraktion und eine Expansion, eine Systole und eine Diastole. (vgl. ebd. 60) Sie sei dadurch gehindert, eins zu werden, dass sie durch eine Vielfalt von Interessen, Affekten und Relationen bestimmt sei. (vgl. ebd. 60) Sie besitze keinen Gesellschaftsvertrag und sei nicht als im Moment gegebene Einheit-durch-Konsens konstituiert. Ihre vielfältigen Interessen decken sich höchstens in einer äußerst flüchtigen, vernetzten Form. (vgl. ebd. 60) Insbesondere ihre "Opposition zur Tradition des Gesellschaftsvertrags" stellt Thacker als "durchgängigste[s] Merkmal gegenwärtiger Theorien der Multitude" heraus. (vgl. ebd. 60) Es leuchtet daher ein, wenn "[d]ie Frage, die sich die Multitude stellt, lautet: »Kann die Multitude sich selbst regieren?« anstelle der Frage, die der Multitude gestellt wird: »Ist die Multitude regierbar?«" (ebd. 63)
+Thacker beschreibt die Multitude als etwas, das vor allem mit seiner eigenen Konstitution, mit ihrer Fähigkeit beschäftigt sei, "sowohl dem Konsens als auch dem Dissens einen Raum zu geben." (vgl. [[Literatur|ebd.]], S. 59) Sie sei eine Mannigfaltigkeit [multiplicity] von Singularitäten, eine Differenz, die eine Wiederholung sei, eine Kontraktion und eine Expansion, eine Systole und eine Diastole. (vgl. [[Literatur|ebd.]], S. 60) Sie sei dadurch gehindert, eins zu werden, dass sie durch eine Vielfalt von Interessen, Affekten und Relationen bestimmt sei. (vgl. [[Literatur|ebd.]], S. 60) Sie besitze keinen Gesellschaftsvertrag und sei nicht als im Moment gegebene Einheit-durch-Konsens konstituiert. Ihre vielfältigen Interessen decken sich höchstens in einer äußerst flüchtigen, vernetzten Form. (vgl. [[Literatur|ebd.]], S. 60) Insbesondere ihre "Opposition zur Tradition des Gesellschaftsvertrags" stellt Thacker als "durchgängigste[s] Merkmal gegenwärtiger Theorien der Multitude" heraus. (vgl. [[Literatur|ebd.]], S. 60) Es leuchtet daher ein, wenn "[d]ie Frage, die sich die Multitude stellt, lautet: »Kann die Multitude sich selbst regieren?« anstelle der Frage, die der Multitude gestellt wird: »Ist die Multitude regierbar?«" ([[Literatur|ebd.]], S. 63)
 
 ## Multitude und Open Collective
 Thacker fragt "Existiert die Multitude heute, oder ist sie eine politische Vision von etwas »Kommendem«?" und stellt fest,  "Demokratie impliziert keine Multitudes und eigentlich ist eines der wesentlichen Angriffsziele der Multitude die repräsentative Demokratie (die Differenz zwischen »konstituierter« und »konstituierender« Macht, auf die Negri hinweist)." (Thacker [[Literatur|2009]], S. 62 f.)
 
-Ähnlich findet sich auch in Dammans[^1] Artikel _A New Form of Association for the Internet Generation — part 1_ zur [[die Kollektivität der Kollektivität open collective#Motivation von Open Collective]] mit der Bemerkung "We can lobby our governments to update the legal framework. [...] But it will take years, if it ever happens. Plus, the problem is not limited to one country. It’s a global issue." (https://medium.com/open-collective/a-new-form-of-association-for-the-internet-generation-part-1-6d6c4f5dd27f) eine Kritik an Teilprozessen repräsentativer Demokratie, die zunächst durch den Aufwand und die Dauer von Entscheidungsprozessen motiviert wird. Dammans Kritik ist aber nicht nur eine Kritik an der Trägheit repräsentativer Demokratien. So wie Mancini ist auch er "passionate about redefining our institutions for the Internet era" (https://blog.opencollective.com/pia-mancini-and-aseem-sood-join-opencollective-as-cofounders/) und verweist auf einen Ted-Talk, [How to upgrade democracy for the Internet era](https://www.ted.com/talks/pia_mancini_how_to_upgrade_democracy_for_the_internet_era), aus dem Jahr 2014, in dem Mancini fragt:
+Ähnlich findet sich auch in Dammans[^1] Artikel _A New Form of Association for the Internet Generation — part 1_ zur [[die Kollektivität der Kollektivität open collective#Motivation von Open Collective]] mit der Bemerkung "We can lobby our governments to update the legal framework. [...] But it will take years, if it ever happens. Plus, the problem is not limited to one country. It’s a global issue." (Damman [[Literatur|2014]], Online) eine Kritik an Teilprozessen repräsentativer Demokratie, die zunächst durch den Aufwand und die Dauer von Entscheidungsprozessen motiviert wird. Dammans Kritik ist aber nicht nur eine Kritik an der Trägheit repräsentativer Demokratien. So wie Mancini ist auch er "passionate about redefining our institutions for the Internet era" (Damman [[Literatur|2016]], Online) und verweist auf einen Ted-Talk, [How to upgrade democracy for the Internet era](https://www.ted.com/talks/pia_mancini_how_to_upgrade_democracy_for_the_internet_era), aus dem Jahr 2014, in dem Mancini fragt:
 
 > If Internet is the new printing press, then what is democracy for the Internet era?
 > What institutions do we want to build for the 21st-century society?
@@ -46,9 +48,9 @@ Die Funktion des Gewaltmonopols lässt sich am Beispiel von Bitcoin in dem Zusam
 Eine weitere Parallele zwischen dem Leviathan und DAOs sieht Danaher in der besonderen, einmaligen Verabredung, wenn er schreibt:
 > An initial agreement between coders and (potentially) citizens is needed to set up the DAO. This agreement will prescribe the powers and conditions that will be enforced by the DAO. This initial set-up could involve something akin to Hobbes’s once-in-a-lifetime transfer of rights and powers.
 > 
-> -- (https://philosophicaldisquisitions.blogspot.com/2016/03/blockchains-and-daos-as-modern-leviathan.html)
+> -- ([[Literatur|ebd.]] 2016, Online)
 
-Unterstützt wird dieser Vergleich auf der Webseite https://ethereum.org/en/dao, auf der es zur Begründung, weshalb Ethereum die perfekte Grundlage für eine DAO sei, heißt: "Smart contract code can’t be modified once live, even by its owners. This allows the DAO to run by the rules it was programmed with." ([Ethereum.org](https://ethereum.org/en/dao), Online) Dieser Umstand hat letztlich auch mit dazu geführt, dass es 2016 zu dem sogenannten [[DAO fork]] gekommen ist.
+Unterstützt wird dieser Vergleich auf der Webseite https://ethereum.org/en/dao, auf der es zur Begründung, weshalb Ethereum die perfekte Grundlage für eine DAO sei, heißt: "Smart contract code can’t be modified once live, even by its owners. This allows the DAO to run by the rules it was programmed with." [^7] Dieser Umstand hat letztlich auch mit dazu geführt, dass es 2016 zu dem sogenannten [[DAO fork]] gekommen ist.
 
 ## Übergang von der Multitude in das Commonwealth
 
@@ -56,7 +58,7 @@ Die Multitude und der Leviathan stehen bei Hobbes über das _Commonwealth_ in Ve
 
 > This is more than Consent, or Concord; it is a reall Unitie of them all, in one and the same Person, made by Covenant of every man with every man, in such manner, as if every man should say to every man, “I Authorise and give up my Right of Governing my selfe, to this Man, or to this Assembly of men, on this condition, that thou give up thy Right to him, and Authorise all his Actions in like manner.” This done, the Multitude so united in one Person, is called a COMMON-WEALTH, in latine CIVITAS. This is the Generation of that great LEVIATHAN, or rather (to speake more reverently) of that Mortall God, to which wee owe under the Immortall God, our peace and defence.
 >
-> -- https://www.gutenberg.org/files/3207/3207-h/3207-h.htm
+> -- (Hobbes [[Literatur|1651]], Online (Leviathan PART II. OF COMMON-WEALTH))
 
 ## Leseempfehlung
 * [[Kollektivität]]
@@ -69,19 +71,23 @@ Die Multitude und der Leviathan stehen bei Hobbes über das _Commonwealth_ in Ve
 [^4]: Im engischen Original heißt es: "The critical question for us then becomes: is there any other technical infrastructure that can instantiate the conceptual essence of Hobbes’s Leviathan?" ([[Literatur|Danaher]] 2016, Online)
 [^5]: Die Notiz _am Mitglied der Gemeinschaft_ gewinnt dadurch an Bedeutung, dass der CO2-Fußabdruck, der sich auch durch die Umsetzung der Proof-of-Work Methode ergibt, negative Auswirkungen auf das globale Klima hat. Diese Auswirkungen betreffen dabei nicht nur "die Natur", sondern auch den Menschen, allerdings nicht unmittelbar denjenigen, der Anteil an den versprochenen Vorteilen ihrer Verursachung hat. Das Inkaufnehmen dieses Ungleichgewichts wird als environmental racism besprochen, so bspw. auch von Timnit Gebru et al. in dem Paper [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922), in dem es allerdings nicht um den Proof-of-Work, sondern um zu große Language Models (bspw. BERT) geht. Gemein ist beiden zumindest die Kritik an ihrem Energieverbrauch.
 [^6]: vgl. https://www.coindesk.com/policy/2021/05/03/bitcoin-has-a-nonviolent-security-model/
+[^7]: vgl. https://ethereum.org/en/dao
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
 [Literatur|2009]: Literatur.md "Literatur"
+[Literatur|ebd.]: Literatur.md "Literatur"
+[Literatur|Cicero]: Literatur.md "Literatur"
 [die Kollektivität der Kollektivität open collective#Motivation von Open Collective]: <die Kollektivität der Kollektivität open collective.md> "die Kollektivität der Kollektivität Open Collective"
-[Technologien des Gemeinsamen]: <Technologien des Gemeinsamen.md> "Technologien des Gemeinsamen"
+[Literatur|2014]: Literatur.md "Literatur"
 [Literatur|2016]: Literatur.md "Literatur"
+[Technologien des Gemeinsamen]: <Technologien des Gemeinsamen.md> "Technologien des Gemeinsamen"
 [Literatur|2008]: Literatur.md "Literatur"
 [Literatur|2007]: Literatur.md "Literatur"
 [RadicalXChange]: RadicalxChange.md "RadicalxChange"
 [a speculative sketch of a dao with open collective]: <a speculative sketch of a dao with open collective.md> "a speculative sketch of a dao with open collective"
 [Literatur|Danaher]: Literatur.md "Literatur"
-[Literatur|ebd.]: Literatur.md "Literatur"
 [DAO fork]: <DAO fork.md> "DAO fork"
+[Literatur|1651]: Literatur.md "Literatur"
 [Kollektivität]: Kollektivität.md "(Ambiguitäten der) Kollektivität"
 [readme]: ../readme.md "Herstellung von Kollektivität bei den Kollektivitäten Multitude und Anonymous, Betrachtung der Kollektivität Open Collective, Untersuchung einer spekulativen DAO und ihrer Eingebundenheit in Ethereum."
 [Santiago Siri]: <Santiago Siri.md> "Santiago Siri"
