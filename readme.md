@@ -34,14 +34,12 @@ Es gibt vier verschiedene Typen von Beiträgen:
 Um das Lesen dieser Arbeit zu erleichtern und einer argumentativen Stringenz näher zu kommen, findet sich am Ende einiger Beiträge eine Leseempfehlung für den nächsten Beitrag.
 
 ## Fazit
-* Kollektivitäten bei Wiedemann
-* Technologien des Gemeinsamen 
-  * Anon: Anonymität im Netz
-  * Multitude: Widerspruch
-  * Kollektivität _um_ Open Collective: Kryptographie und Proof of Work/Identity?
-* Open Collective als Kollektivität und Plattform und Bewegung und Transformation, Beantwortung der Frage, ob OC eine Open Collectivity ist (Offene, nicht-repräsentationistische Kollektivität ereignet sich, wenn Form und Ausdruck der Kollektivität sich und damit die Kollektivität wechselseitig als Bewegung kommunikativ und kooperativ konstituieren. (CW 139)).
-* Ethereum und DAOs
-* Hobbes Leviathan und Multitude
+
+Als größte Schwierigkeit erweist sich im Rahmen dieser Arbeit das Schreiben eines Fazits. Insbesondere die Suche nach einer argumentativen Kohärenz in einem non-linearen Text stellt eine weitaus größere Herausforderung dar, als zu Beginn angenommen. In einem linearen Text führen alle Wege zum Fazit (wenn es denn eines gibt), in dieser Arbeit muss dies nicht der Fall sein. Um dennoch einem Wunsch nachzukommen, Forschungsergebnisse schnell einsehen zu können, wurde zweierlei unternommen.
+Zum Einen befindet sich das Fazit hier, auf einer Seite mit dem Abstract - wenn schon nicht alle Wege zum Fazit führen, so lassen sich doch zumindest alle Beiträge vom Fazit aus erreichen. Zum Anderen ist das Anlegen der Leseempfehlungen einem Schreiben des Fazits vorangegangen. Die daraus hervorgegangene Verkettung von Beiträgen kann als eine Art Main-Branch gelesen werden und führt mit ihrem letzten Glied in einer Wiederholung, die eine Differenz ist, wieder zurück zum [[Regime#Archein|Anfang]].
+Es sind die durch Leseempfehlungen verketteten Beiträge, die durch das wiederholte Arrangieren und Lesen zu diesem - meinem - Fazit führen können. Unabhängig davon ob sie dies tun oder nicht, genügt der Umgang mit dieser Arbeit damit, als Vollzug, einer von Wiedemann vorgeschlagenen Definition von Kollektivität: "in der Verbindung, in dem Moment, in dem sich Elemente zusammenfügen, haben sie gemeinsam _Agency_, also die Fähigkeit, eine Handlung zu initiieren, die einen transformatorischen Effekt hat (Latour 2005: 53)." (Wiedemann [[Literatur|2016]], S. 40)
+Aufgegriffen werden sollen hier nun aber zumindest zwei Fragen, die in dem Beitrag [[Untersuchung einer Bewegung (Einführung)]] gestellt werden: Ist Open Collective als „collective of collectives“ eine Materialisierung eines Konzepts von Kollektivität - der Multitude - und ist Open Collective eine Open Collectivity?
+Offene, nicht-repräsentationistische Kollektivität ereigne sich, so Wiedemann, wenn Form und Ausdruck der Kollektivität sich und damit die Kollektivität wechselseitig als Bewegung kommunikativ und kooperativ konstituieren. (vgl. Wiedmann 2016, S. 140) Die Frage, ob Open Collective eine Open Collectivity _ist_, muss daher verneint werden. Aber nicht, weil sie nicht-repräsentationistisch ist, das trifft auf Anonymous genauso wenig zu, sondern vielmehr, weil sie sich wie Anonymous und die Multitude auf der Suche nach Selbststeuerung in einer Bewegung hin zu einem nicht-repräsenationistischen _Ganzen_ befindet. Open Collective ist, wie Anonymous und die Multitude, eine Open Collectivity, die nicht sein kann, weil sie sich ereignet und nur im Vollzug besteht. Die Fähigkeit, "sowohl dem Konsens als auch dem Dissens einen Raum zu geben" (vgl. Thacker 59), die Vielheit - bestehend aus Singularitäten -, der Vollzug einer stetigen Transformation und die Beschäftigung mit ihrer eigenen Konstitution (vgl. ebd. 59) sind Merkmale der Figur der Multitude bei Negri und Hardt, die sich auch in der Kollektivität Open Collective finden lassen. Die Frage, ob Open Collective als „collective of collectives“ eine Materialisierung eines Konzepts von Kollektivität - der Multitude - ist, lässt sich aber letztlich nur so beantworten: Manches deutet darauf hin. [^3]
 
 ## Leseempfehlung
 [[Untersuchung einer Bewegung (Einführung)]]
@@ -52,6 +50,7 @@ https://hueper.github.io/collectivity/latest/
 ## Fußnoten
 [^1]: "Foam is a personal knowledge management and sharing system inspired by Roam Research, built on Visual Studio Code and GitHub." https://foambubble.github.io/foam/
 [^2]: "Git [ɡɪt] ist eine freie Software zur verteilten Versionsverwaltung von Dateien, die durch Linus Torvalds initiiert wurde." https://de.wikipedia.org/wiki/Git. Sowohl Ethereum als auch git sind Implementierungen von [Merkle Trees](https://en.wikipedia.org/wiki/Merkle_tree), weshalb immer wieder die Frage gestellt wird, ob auch git eine Blockchain sei. Annäherungen finden sich bei Kelsey Hightowers Tweet vom 15. Februar 2022: "[Git is a blockchain. Dope since 2005.](https://twitter.com/kelseyhightower/status/1493710169431162880)", auf Stackoverflow: [Why is Git not considered a "block chain"?](https://stackoverflow.com/questions/46192377/why-is-git-not-considered-a-block-chain) und in Nicholas Weavers Vortrag vom 24. Februar 2022 über Cryptocurrencies: https://www.youtube.com/watch?v=J9nv0Ol-R5Q
+[^3]: So beantwortet auch Thacker die Frage danach, ob die Multitude heute existiert unentschieden und mahnt, nicht "all die Spannungen und Widersprüche zu vergessen, die die Multitude ausmachen". (Thacker S. 63)
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
 [DAO]: docs/DAO.md "DAO"
@@ -60,5 +59,7 @@ https://hueper.github.io/collectivity/latest/
 [RadicalxChange]: docs/RadicalxChange.md "RadicalxChange"
 [Gilles Deleuze]: <docs/Gilles Deleuze.md> "Gilles Deleuze"
 [Literatur]: docs/Literatur.md "Literatur"
+[Regime#Archein|Anfang]: docs/Regime.md "Herrschaft / Regime / Ideologie"
+[Literatur|2016]: docs/Literatur.md "Literatur"
 [Untersuchung einer Bewegung (Einführung)]: <docs/Untersuchung einer Bewegung (Einführung).md> "Untersuchung einer Bewegung"
 [//end]: # "Autogenerated link references"

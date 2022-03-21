@@ -5,7 +5,7 @@ tags:
 
 # Untersuchung einer _Bewegung_
 [[Wiedemann]] untersucht in ihrem Beitrag _Open Collectivity_ in [[Kritische Kollektivität im Netz]] das Dispositiv des Gemeinsamen und macht dort zwei Typen von [[Kollektivität]] aus. Kollektivität als zählbare Entität und Kollektivität als Vollzug.  
-Ausgangspunkt für diese Arbeit ist das Vorhaben, Open Collective mit den Kollektivitäten [[Multitude]] und [[Anonymous]] zu vergleichen, zu fragen, ob Open Collective als „collective of collectives“ eine Materialisierung des Konzepts Kollektivität darstellt und [[die Kollektivität der Kollektivität open collective]] zu untersuchen.
+Ausgangspunkt für diese Arbeit ist das Vorhaben, Open Collective mit den Kollektivitäten [[Multitude]] und [[Anonymous]] zu vergleichen, zu fragen, ob Open Collective als „collective of collectives“ eine Materialisierung eines Konzepts von Kollektivität darstellt und [[die Kollektivität der Kollektivität open collective]] zu untersuchen.
 
 Die Idee zu einem Vergleich open collective → Multitude → Anonymous entstand aus zwei Beobachtungen:
 1. Wiedemanns' Beitrag heißt _Open Collectivity_ und der Name der untersuchten Kollektivität ist _Open Collective_. Die Frage ob das Open Collective eine Open Collectivity ist, ergibt sich schon durch ihre Selbstbezeichnung.
