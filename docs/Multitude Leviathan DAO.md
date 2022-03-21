@@ -61,8 +61,7 @@ Die Multitude und der Leviathan stehen bei Hobbes über das _Commonwealth_ in Ve
 > -- (Hobbes [[Literatur|1651]], Online (Leviathan PART II. OF COMMON-WEALTH))
 
 ## Leseempfehlung
-* [[Kollektivität]]
-* [[readme]]
+* \[\[[Fazit](https://hueper.github.io/collectivity/)\]\]
 
 ## Fußnoten
 [^1]: Xavier Damman ist Mitgründer von Open Collective.
@@ -88,6 +87,6 @@ Die Multitude und der Leviathan stehen bei Hobbes über das _Commonwealth_ in Ve
 [DAO fork]: <DAO fork.md> "DAO fork"
 [Literatur|1651]: Literatur.md "1651"
 [Kollektivität]: Kollektivität.md "(Ambiguitäten der) Kollektivität"
-[readme]: ../readme.md "Herstellung von Kollektivität bei den Kollektivitäten Multitude und Anonymous, Betrachtung der Kollektivität Open Collective, Untersuchung einer spekulativen DAO und ihrer Eingebundenheit in Ethereum."
+[readme]: ../readme.md "Fazit"
 [Santiago Siri]: <Santiago Siri.md> "Santiago Siri"
 [Pia Mancini]: <Pia Mancini.md> "Pia Mancini"
