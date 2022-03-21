@@ -2,10 +2,10 @@ const path = require("path");
 const pathPrefix = "/collectivity";
 // Change me
 const siteMetadata = {
-  title: "Collectivity",
-  shortName: "Wiki",
+  title: "Untersuchung von Open Collective als Materialisierung eines Konzepts von Kollektivität - der Multitude.",
+  shortName: "Kollektivitäten",
   description:
-    "Another Foam template that use gatsby-theme-primer-wiki, Welcome to your new Foam Knowledge Base!",
+    "Herstellung von Kollektivität bei den Kollektivitäten Multitude und Anonymous, Betrachtung der Kollektivität Open Collective, Untersuchung einer spekulativen DAO und ihrer Eingebundenheit in Ethereum.",
   twitterName: "moritzhueper",
   imageUrl: "/graph-visualisation.jpg",
   siteUrl: "https://hueper.github.io",

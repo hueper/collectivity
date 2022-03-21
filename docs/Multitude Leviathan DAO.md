@@ -8,7 +8,7 @@ Die Multitude ist allerdings auch "ein Begriff, der von Machiavelli, Hobbes, Spi
 > 
 > -- ([[Literatur|ebd.]], S. 57)
 
-Cicero verwendet den Begriff in _De re publica_: "Est igitur, inquit Africanus, res publica res populi, populus autem non omnis hominum coetus quoquo modo congregatus, sed coetus **multitudinis** iuris consensu et utilitatis communione sociatus." ([[Literatur|Cicero]], Buch 1 Kap. 39)
+Cicero verwendet den Begriff in _De re publica_: "Est igitur, inquit Africanus, res publica res populi, populus autem non omnis hominum coetus quoquo modo congregatus, sed coetus **multitudinis** iuris consensu et utilitatis communione sociatus." (Cicero [[Literatur|2013]], Buch 1 Kap. 39)
 
 In _Netzwerke - Schwärme - Multitudes_ arbeitet Thacker trotz oder vielleicht gerade wegen dieser Uneinigkeit über das Wesen der Multitude eine Art Katalog über ihre Eigenschaften heraus. Allen Eigenschaften voran, erklärt Thacker: "Was auch immer der Fall sein mag, die Multitude scheint immer »quer« zu ihren eigenen Voraussetzungen zu stehen; denn sie konstituiert eine soziale und politische Ordnung und widersteht dieser gleichzeitig." (Thacker [[Literatur|2009]], S. 58)
 
@@ -74,7 +74,7 @@ Die Multitude und der Leviathan stehen bei Hobbes über das _Commonwealth_ in Ve
 
 [Literatur|2009]: Literatur.md "2009"
 [Literatur|ebd.]: Literatur.md "ebd."
-[Literatur|Cicero]: Literatur.md "Cicero"
+[Literatur|2013]: Literatur.md "2013"
 [die Kollektivität der Kollektivität open collective#Motivation von Open Collective]: <die Kollektivität der Kollektivität open collective.md> "die Kollektivität der Kollektivität Open Collective"
 [Literatur|2014]: Literatur.md "2014"
 [Literatur|2016]: Literatur.md "2016"
